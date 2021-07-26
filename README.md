@@ -6,3 +6,6 @@ this is main python files,which include generate data,augment data,main function
 it can achieve nodule segmentation.
 
 
+## Demo
+
+......
