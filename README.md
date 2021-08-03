@@ -4,5 +4,7 @@ Traditional segmentation methods mostly use thresholds or edges to segment lung 
 
 
 ## Demo
+Run main.py
 
-......
+## Results
+![comparsion](https://user-images.githubusercontent.com/30771950/127951329-6ddbbc77-f11a-4fcd-906d-802e66f4c12d.jpg)
